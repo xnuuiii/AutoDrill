@@ -150,6 +150,9 @@ gradle-app.setting
 /ios/build/
 /ios-moe/build/
 
+## Test environment
+/test-env/
+
 ## OS Specific
 .DS_Store
 Thumbs.db
